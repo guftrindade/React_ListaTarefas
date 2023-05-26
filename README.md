@@ -1,3 +1,4 @@
-## Projeto simples para estudos de React.js
+### Projeto de lista de tarefas desenvolvido com React.js com opção de inserir, deletar e visualizar detalhes
 
-![image](https://github.com/guftrindade/React_ListaTarefas/assets/67704261/97d0e4da-d5eb-485f-b177-071161ffef5b)
+![image](https://github.com/guftrindade/React_ListaTarefas/assets/67704261/148eb6e5-2b8f-4d3e-80d1-bdf9e01bb1f0)
+
